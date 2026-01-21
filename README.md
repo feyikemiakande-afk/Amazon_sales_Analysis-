@@ -25,8 +25,5 @@ The dataset contains Amazon sales information, including order data, revenue, pr
 - Clear trends can be observed over time
 - A small number of products contribute a large share of total revenue
 
-## Live Dashboard
-
-
 ## Conclusion
 This project demonstrates Power BI skills, including data modeling, KPI development, and interactive dashboard design.
